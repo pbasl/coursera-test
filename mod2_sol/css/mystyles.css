@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 html, body {
   font-family: 'Montserrat', sans-serif;
 }
@@ -17,6 +21,7 @@ h2 {
   top: -1px;
   right: -1px;
   margin: 0;
+  text-overflow: hidden;
 }
 
 #h21 {
