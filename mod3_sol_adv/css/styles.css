@@ -1,0 +1,31 @@
+/* Body */
+body {
+  font-family: 'Pacifico', cursive;
+}
+
+/* Navbar */
+.navbar-header {
+  background-color: #BCAEAE;
+}
+
+.navbar-brand {
+  font-size: 2em;
+  color: #fff;
+}
+.navbar-nav a {
+  background-color: #E6D7D7;
+  color: #36289E;
+}
+
+/* Page Content */
+.section-content {
+  background-color: #F4E7E7;
+}
+
+.internal-link {
+  text-decoration: none;
+  display: block;
+  text-align: center;
+}
+
+/* 
